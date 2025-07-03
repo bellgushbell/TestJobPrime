@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "My Test"
+  },
+  "menu": {
+    "num1": "Dashboard"
+  },
+  "dashboard": {
+    "title": "Titanic Dashboard",
+    "1": "1. Survivors by Gender",
+    "2": "2. Survivors by Class",
+    "3": "3. Survivors by Embark Port",
+    "4": "4. Survivors by Siblings/Spouses",
+    "5": "5. Survivors by Parents/Children",
+    "6": "6. Survivors by Age Group",
+    "7": "7. Average Age: {{value}}",
+    "8": "8. Average Fare: ${{value}}",
+    "9": "9. Survivor Name List ({{count}} ppl)",
+    "male": "Male",
+    "female": "Female",
+    "first": "1st",
+    "second": "2nd",
+    "third": "3rd",
+    "survivors": "Survivors",
+    "child": "Child",
+    "teen": "Teen",
+    "adult": "Adult",
+    "senior": "Senior",
+    "unknown": "Unknown",
+    "searchNameLabel": "Search name...",
+    "showLess": "Show Less",
+    "showMore": "Show More"
+  },
+  "comment": {
+    "title": "Add Comment",
+    "add": "Add",
+    "placeholder": "Write a comment..."
+  },
+  "home": {
+    "title": "Entrance Exam for Technical Programming",
+    "description": "Built using JavaScript and Next.js. For testing purposes only. Not authorized for distribution. Use the hamburger menu to Dashboard."
+  }
+}
