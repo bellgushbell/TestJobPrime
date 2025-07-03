@@ -1,8 +1,4 @@
-﻿# JobTest
-# TestJobPrime
-# JobTest
 
-# TestJobPrime
 
 รายละเอียดแดชบอร์ด
 จัดทำด้วย React, JavaScript, NextJS, และ ChartJs
